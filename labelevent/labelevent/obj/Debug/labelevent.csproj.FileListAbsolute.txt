@@ -1,0 +1,10 @@
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\bin\Debug\labelevent.exe.config
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\bin\Debug\labelevent.exe
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\bin\Debug\labelevent.pdb
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.csprojAssemblyReference.cache
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.Form1.resources
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.exe
+C:\Users\raphael.broberg\Desktop\tilpro\labelevent\labelevent\obj\Debug\labelevent.pdb
