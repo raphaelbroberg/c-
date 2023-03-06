@@ -1,0 +1,10 @@
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\bin\Debug\knapp.exe.config
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\bin\Debug\knapp.exe
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\bin\Debug\knapp.pdb
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.csprojAssemblyReference.cache
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.Form1.resources
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.exe
+C:\Users\raphael.broberg\Desktop\tilpro\knapp\knapp\obj\Debug\knapp.pdb

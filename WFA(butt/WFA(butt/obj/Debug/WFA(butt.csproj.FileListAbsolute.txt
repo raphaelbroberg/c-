@@ -1,0 +1,9 @@
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\obj\Debug\WFA_butt.Form1.resources
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\obj\Debug\WFA_butt.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\obj\Debug\WFA(butt.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\obj\Debug\WFA(butt.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\bin\Debug\WFA(butt.exe.config
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\bin\Debug\WFA(butt.exe
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\bin\Debug\WFA(butt.pdb
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\obj\Debug\WFA(butt.exe
+C:\Users\raphael.broberg\Desktop\tilpro\WFA(butt\WFA(butt\obj\Debug\WFA(butt.pdb
