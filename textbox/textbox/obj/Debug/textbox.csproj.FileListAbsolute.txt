@@ -1,0 +1,10 @@
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\bin\Debug\textbox.exe.config
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\bin\Debug\textbox.exe
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\bin\Debug\textbox.pdb
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.csprojAssemblyReference.cache
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.Form1.resources
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.Properties.Resources.resources
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.csproj.GenerateResource.cache
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.csproj.CoreCompileInputs.cache
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.exe
+C:\Users\raphael.broberg\Desktop\tilpro\textbox\textbox\obj\Debug\textbox.pdb
